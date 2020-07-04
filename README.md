@@ -1,8 +1,12 @@
 # Projeto teste para inserção de imagem em DOCX usando Laravel/PHP
 
 ![GIF](https://i.imgur.com/U929bPi.giff)
+
+
 Recursos:
+
 https://laravel.com/
+
 https://github.com/PHPOffice/PHPWord
 
 Exemplo:
